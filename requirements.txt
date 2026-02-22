@@ -3,6 +3,7 @@ numpy
 Flask
 fastapi
 uvicorn
+langchain
 langchain-openai
 python-dotenv
 black
